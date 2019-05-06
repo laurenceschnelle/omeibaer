@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shoithanu.ihdea.net/sitemap.xml
